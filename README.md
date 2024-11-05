@@ -12,5 +12,5 @@ L0G100 Linux基础知识（[https://blog.csdn.net/weixin_51617262/article/detail
     
 L0G200 python基础知识（[https://blog.csdn.net/weixin_51617262/article/details/143443804](https://blog.csdn.net/weixin_51617262/article/details/143443804)）     
     
-L0G300 Git基础知识
+L0G300 Git基础知识 （[https://blog.csdn.net/weixin_51617262/article/details/143474203](https://blog.csdn.net/weixin_51617262/article/details/143474203)）
 
